@@ -291,6 +291,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "801695B573595E0ABB3374666E6BFAA38A923B67",
+			"Assets": [
+				"/Game/ThirdPerson/Meshes/RampMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "BE009093AFED865BC4E39A6002509DDDDF832735",
 			"Assets": [
 				"/Game/Geometry/Meshes/CubeMaterial"
@@ -303,9 +309,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "801695B573595E0ABB3374666E6BFAA38A923B67",
+			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
 			"Assets": [
-				"/Game/ThirdPerson/Meshes/RampMaterial"
+				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		}
 	]
